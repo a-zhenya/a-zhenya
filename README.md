@@ -1,0 +1,9 @@
+Evgeny A
+Math, statistics, data analysis, machine learning
+
+📫 zexo@yandex.ru
+
+<!---
+a-zhenya/a-zhenya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
