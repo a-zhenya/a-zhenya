@@ -2,8 +2,8 @@ Evgeny A
 
 Math, statistics, data analysis, machine learning
 
-📫 zexo@yandex.ru
-✈️ https://t.me/a_evgeny
+📫 zexo@yandex.ru<br>
+✈️ https://t.me/a_evgeny<br>
 🔌 https://discordapp.com/users/884476135545651272
 
 <!---
