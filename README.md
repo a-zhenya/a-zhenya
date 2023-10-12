@@ -1,10 +1,9 @@
 Evgeny A
 
-Math, statistics, data analysis, machine learning
+Machine learning solutions primarily in RL and NLP
 
-📫 zexo@yandex.ru<br>
+📫 eadishchev@gmail.com<br>
 ✈️ https://t.me/a_evgeny<br>
-🔌 https://discordapp.com/users/884476135545651272
 
 <!---
 a-zhenya/a-zhenya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
